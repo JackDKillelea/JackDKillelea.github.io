@@ -34,14 +34,6 @@ Work experience
   
 Skills
 ======
-| Languages | Techologies  | Softwares |
-| C# | Xamarin Forms | Visual Studio |
-| JavaScript | .Net MAUI | Rider |
-| XML | GIT / SVN | Notepad++ |
-| JSON | - | Photoshop |
-| - | - | Microsoft Office Suite |
-| - | - | Filmora |
-
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
