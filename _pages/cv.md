@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
+# Work experience
 * ANDROID DEVELOPER | TouchStar Technology | 6th June 2022 - Present
   * __C# Mobile Developer (Xamarin Native Android, .NET MAUI)__ - Contributed to a four-person team developing a stock management and delivery application for fuel truck drivers.
   * __Rapid Onboarding & Contribution__ - Transitioned from bug fixes to sprint work within a week, becoming a key team member.
@@ -32,25 +31,43 @@ Work experience
 * WORK EXPERIENCE | COOL GAMES | JULY 2012 – JULY 2012
   * __Game Development__ - Developed two console games, "Hangman" and a word problem game, using the company's proprietary IDE. Gained proficiency in the IDE's features and functionality.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Skills
 
-Education
-======
+## Languages
+
+* C#
+* JSON
+* XML
+* JavaScript
+
+## Technologies
+
+* Xamarin Native
+* Xamarin Forms
+* .NET MAUI
+* GIT / SVN
+
+## Software
+
+* Visual Studio
+* Rider
+* Notepad++
+* SourceTree / Github Desktop
+
+## Other
+
+* Microsoft Office Suite
+* Photoshop
+* Filmora
+
+# Education
 * BSC(HONS) IN COMPUTER SCIENCE WITH GAMES DEVELOPMENT | 2014 – 2017 | UNIVERSITY OF HULL
 * DDM BTEC LEVEL 3 | 2012-2014 | NELSON AND COLNE COLLEGE - Games Development
 * GCSE’S | 2007 – 2012 | ALDER GRANGE COMMUNITY AND TECHNOLOGY HIGH SCHOOL
   * Mathematics - B
   * English - C
 
-Interests
-======
+# Interests
 * Strong interest in AI and machine learning.
 * Interest in VR and AR technologies.
 * Snowboarding, both on and off piste.
