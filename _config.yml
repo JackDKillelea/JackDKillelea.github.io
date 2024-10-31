@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Jack Killelea"
-  pronouns         : "he/him"
-  bio              : "I'm Jack, a C# mobile developer at TouchStar specializing in Xamarin and .NET MAUI, with a diverse background ranging from enterprise software development to game creation and a passion for learning new technologies."
+  pronouns         : # "He/Him"
+  bio              : "I'm Jack, a C# mobile developer specializing in Xamarin and .NET MAUI. I am currently looking at becoming a Python developer."
   location         : "Lancashire"
   employer         : # Employer here
   uri              : # URL
