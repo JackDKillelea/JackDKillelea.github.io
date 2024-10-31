@@ -67,7 +67,7 @@ redirect_from:
 * Strong interest in AI and machine learning.
 * Interest in VR and AR technologies.
 * Snowboarding, both on and off piste.
-* Gaming enthusiast with an special interest toward competitive gaming and eSports.
+* Gaming enthusiast with a special interest toward competitive gaming and eSports.
 * 3D printing and model painting.
 * Contributed to the successful execution of the university radio show.
 * Active participant and event organizer in my University Computer Society.
