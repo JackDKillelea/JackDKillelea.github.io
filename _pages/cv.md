@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----*
+---
 
 {% include base_path %}
 
@@ -77,4 +77,3 @@ redirect_from:
 * Active participant and event organizer in my University Computer Society.
 * Engaged member of the University Anime Society.
 * Full clean drivers license.
-
