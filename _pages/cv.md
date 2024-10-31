@@ -32,21 +32,25 @@ redirect_from:
   * __Game Development__ - Developed two console games, "Hangman" and a word problem game, using the company's proprietary IDE. Gained proficiency in the IDE's features and functionality.
   
 # Skills
+
 ## Languages
 * C#
 * JSON
 * XML
 * JavaScript
+
 ## Technologies
 * Xamarin Native
 * Xamarin Forms
 * .NET MAUI
 * GIT / SVN
+
 ## Software
 * Visual Studio
 * Rider
 * Notepad++
 * SourceTree / Github Desktop
+
 ## Other
 * Microsoft Office Suite
 * Photoshop
