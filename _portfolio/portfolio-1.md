@@ -14,4 +14,4 @@ Motivated by a desire to combine my passion for gaming with my coding skills, I 
 
 This project's modular design allows for easy adaptation to various RPG projects. Simple modifications to textures, colors, item assets, and the item database enable seamless integration into different game environments.
 
-The inventory system was developed using Unity and C#. The source code is available on GitHub: https://github.com/JackDKillelea/Inventory_System
+The inventory system was developed using Unity and C#. The source code is available on [GitHub.](https://github.com/JackDKillelea/Inventory_System)
