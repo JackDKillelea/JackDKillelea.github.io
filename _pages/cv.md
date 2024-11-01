@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+## (Downloadable Version Can be Found Here)[https://drive.google.com/file/d/1kBnDjOJ3q2RG3CG1ipFyP_kd8mRTq7Qq/view?usp=drive_link]
+
 ## Work experience
 #### ANDROID DEVELOPER - TouchStar Technology - 6th June 2022 - Present
   * __C# Mobile Developer (Xamarin Native Android, .NET MAUI)__ - Contributed to a four-person team developing a stock management and delivery application for fuel truck drivers.
