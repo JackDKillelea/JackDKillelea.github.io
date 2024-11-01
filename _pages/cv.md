@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## (Downloadable Version Can be Found Here)[https://drive.google.com/file/d/1kBnDjOJ3q2RG3CG1ipFyP_kd8mRTq7Qq/view?usp=drive_link]
+## [Downloadable Version Can be Found Here](https://drive.google.com/file/d/1kBnDjOJ3q2RG3CG1ipFyP_kd8mRTq7Qq/view?usp=drive_link)
 
 ## Work experience
 #### Android Developer | TouchStar Technology | 6th June 2022 - Present
