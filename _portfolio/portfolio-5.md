@@ -8,6 +8,6 @@ This project showcases a small web application that allows you to take a photo a
 
 The source code is available here for review. Future enhancements could include features such as task prioritization, deadlines and possibly instanced tasks using a database as they are currently global.
 
-You can find the app [here.](https://greyscale.streamlit.app)
+You can test the app for yourself [here.](https://greyscale.streamlit.app)
 
 The sourcecode can be found [here.](https://github.com/JackDKillelea/python-black-and-white-converter) Although there isn't much to see!
