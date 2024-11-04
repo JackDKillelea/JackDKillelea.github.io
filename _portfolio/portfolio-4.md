@@ -9,4 +9,5 @@ This project showcases a minimalist to-do web application developed with Python 
 The source code is available here for review. Future enhancements could include features such as task prioritization, deadlines and possibly instanced tasks using a database as they are currently global.
 
 You can find the app [here.](https://jacks-todo-app.streamlit.app)
+
 The sourcecode can be found [here.](https://github.com/JackDKillelea/python-todo-list) Although there isn't much to see!
