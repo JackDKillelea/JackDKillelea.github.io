@@ -13,4 +13,4 @@ I expect there to be a few more projects like this soon, hopefully getting harde
 Image of the graph
 ![Graph](https://imgur.com/HFt7Iij.jpg)
 
-The source code is available here for review [here.](https://github.com/JackDKillelea/python-motion-detector)
+The source code is available here for review [here.](https://github.com/JackDKillelea/reinforcement-learning-si)
