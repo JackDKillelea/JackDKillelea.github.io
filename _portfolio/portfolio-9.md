@@ -1,5 +1,5 @@
 ---
-title: "Python Motion Detector"
+title: "Generic - Python Motion Detector"
 excerpt: "A Python motion detector that emails the user when motion is detected.<br/><img src='https://imgur.com/Q6YPlzY.jpg'>"
 collection: portfolio
 ---

@@ -1,5 +1,5 @@
 ---
-title: "VR Platform Experience"
+title: "Games Development - VR Platform Experience"
 excerpt: "A VR Platform Experience made in Unity<br/><img src='/images/vr_experience.png'>"
 collection: portfolio
 ---

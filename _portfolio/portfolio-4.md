@@ -1,5 +1,5 @@
 ---
-title: "Minimalist Todo Web App"
+title: "Web Dev - Minimalist Todo Web App"
 excerpt: "A minimalist todo app made using python and streamlit.<br/><img src='/images/minimalist_todo_app.png'>"
 collection: portfolio
 ---

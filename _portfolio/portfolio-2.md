@@ -1,5 +1,5 @@
 ---
-title: "Web Scraper"
+title: "Python - Web Scraper"
 excerpt: "HTML Web Scraper First Attempt<br/><img src='/images/scraper.png'>"
 collection: portfolio
 ---

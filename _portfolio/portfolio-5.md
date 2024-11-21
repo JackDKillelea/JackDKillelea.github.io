@@ -1,5 +1,5 @@
 ---
-title: "Greyscale converter Web App"
+title: "Web Dev - Greyscale converter Web App"
 excerpt: "A web app that converts a photo taken into greyscale. Written in Python using Streamlit"
 collection: portfolio
 ---

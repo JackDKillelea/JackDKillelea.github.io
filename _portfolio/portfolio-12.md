@@ -1,5 +1,5 @@
 ---
-title: "DQN Reinforcement Learning AI"
+title: "Machine Learning - DQN Reinforcement Learning AI"
 excerpt: "My first real attempt at slightly more complex reinforcement learning using python.<br/><img src='https://imgur.com/HFt7Iij.jpg'>"
 collection: portfolio
 ---

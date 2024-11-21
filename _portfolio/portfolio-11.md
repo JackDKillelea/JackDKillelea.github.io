@@ -1,5 +1,5 @@
 ---
-title: "Drawing Application"
+title: "Generic - Drawing Application"
 excerpt: "My first time using tkinter.<br/><img src='https://imgur.com/5XLzNgo.jpg'>"
 collection: portfolio
 ---

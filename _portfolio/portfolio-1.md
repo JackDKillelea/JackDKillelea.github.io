@@ -1,5 +1,5 @@
 ---
-title: "RPG Invetory System"
+title: "Games Development - RPG Invetory System"
 excerpt: "A modular RPG inventory system made in Unity.<br/><img src='/images/rpg_system.png'>"
 collection: portfolio
 ---

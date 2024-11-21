@@ -1,5 +1,5 @@
 ---
-title: "Python Portfolio Website"
+title: "Web Dev - Portfolio Website"
 excerpt: "A simple portfolio site. Written in Python using Streamlit"
 collection: portfolio
 ---

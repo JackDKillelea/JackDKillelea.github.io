@@ -1,5 +1,5 @@
 ---
-title: "Python Auto Email"
+title: "Generic - Python Auto Email"
 excerpt: "A small application that automatically emails me AI news daily<br/><img src='https://imgur.com/kMKpIrh.jpg'>"
 collection: portfolio
 ---
